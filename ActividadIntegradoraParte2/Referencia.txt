@@ -1,0 +1,8 @@
+Assets:
+https://free3d.com/3d-model/robot-character-steampunk-obj-166482.html
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-construction-kit-modular-159280
+https://assetstore.unity.com/packages/3d/props/pbr-cardboard-box-110635
+
+Parte UV:
+Estante color acero
+Coloreo de robots
